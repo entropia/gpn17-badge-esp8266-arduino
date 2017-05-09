@@ -1,5 +1,6 @@
-Arduino core for ESP8266 WiFi chip
+Arduino core for ESP8266 WiFi chip - Patched version for the GPN17 Badge
 ===========================================
+Please also see https://github.com/entropia/gpn17-badge
 
 This project brings support for ESP8266 chip to the Arduino environment. It lets you write sketches using familiar Arduino functions and libraries, and run them directly on ESP8266, no external microcontroller required.
 
